@@ -28,7 +28,9 @@ c. Aturan Booking Jadwal: Silahkan chat Aslab untuk menentukan jadwal presentasi
 
 Tidak chat konfirmasi submit = dianggap belum selesai
 
-Submit / revisi GitHub lewat Deadline = tidak diterima
+Tidak terima revisi di GitHub setelah submit link
+
+Submit lewat dari deadline = tidak di terima
 
 #
 **Pengumpulan Tugas**
