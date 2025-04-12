@@ -12,7 +12,7 @@ a. Kerjakan 5 soal (Materi berdasarkan Modul 1-4).
 
 b. Kirim link repo GitHub kalian di https://forms.gle/rTQKCz66DvbCxS1u8. Deadline submit link repo :  19 April (23.59 WIB)
 
-c. WAJIB chat Asisten Lab setelah submit link GForm 
+c. WAJIB chat Asisten Lab setelah submit link GForm  + booking jadwal (poin c di Jadwal Presentasi)
 
 #
 **Jadwal Presentasi🗓️ 20 - 25 April:**
